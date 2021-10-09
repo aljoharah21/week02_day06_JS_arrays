@@ -1,6 +1,6 @@
 # week02_day06_JS_arrays
 
-Edit main.js file by adding the following
+Create an html file, link it to the main.js file and add the following to the js file:
 
 ## MAP
 1. Get array of all names 
